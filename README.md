@@ -5,7 +5,9 @@ Install dependencies:
 Backend: Node.js (Express + WebSockets)
 
 Install dependencies:
+
 npm init -y
+
 npm install express ws cors
 
 Create server.js
@@ -13,7 +15,9 @@ Create server.js
 Frontend: React (WebSocket Client)
 
 npx create-react-app iot-dashboard
+
 cd iot-dashboard
+
 npm install
 
 Update App.js
